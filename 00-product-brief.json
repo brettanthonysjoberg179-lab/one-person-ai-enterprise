@@ -1,0 +1,21 @@
+{
+  "product_id": "prod-one-person-ai-enterprise-001",
+  "title": "The 1-Person AI Enterprise: How to Build, Automate, and Scale a $50k/Month Micro-Business Using Model Context Protocol (MCP) & Cloudflare Agents",
+  "price_usd": 49.0,
+  "format": "PDF + EPUB + Code Kit",
+  "audience": "Solopreneurs, Founders, Indie Hackers, B2B Creators",
+  "tier": "professional",
+  "spec": {
+    "sections": 5,
+    "elements": [
+      "Manuscript",
+      "Architecture Diagrams",
+      "Agent Code Templates",
+      "Launch Checklist"
+    ],
+    "page_size": "A4"
+  },
+  "status": "published (LIVE - listing listing-4b5a5f00)",
+  "live_listing_id": "listing-4b5a5f00",
+  "live_listing_url": "/store/products/listing-4b5a5f00"
+}

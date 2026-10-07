@@ -1,0 +1,11 @@
+{
+  "product_id": "prod-one-person-ai-enterprise-001",
+  "completeness": 95,
+  "accuracy": 92,
+  "pricing_fit": 95,
+  "gumroad_readiness": 90,
+  "overall_score": 93,
+  "pass_threshold": 85,
+  "pass": true,
+  "justification": "Complete manuscript, architecture, listing copy, and SKU generated successfully."
+}
